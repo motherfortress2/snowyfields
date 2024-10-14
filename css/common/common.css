@@ -67,7 +67,7 @@ body {
 	display: block;
 	width: 315px;
 	height: 127px;
-	background: transparent url(/img/common/logo-large.png) top left no-repeat;
+	background: transparent url(/img/common/cplogo.png) top left no-repeat;
 	z-index: 999;
 }
 #masthead a.logo:hover {
