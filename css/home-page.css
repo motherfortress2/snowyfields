@@ -1,8 +1,12 @@
 @charset "UTF-8";
+@font-face {
+  font-family: Myriad;
+  src: url(MyriadPro2-webfont.woff);
+}
 body
 {
 	position:relative;
-	font-family: Arial, Helvetica, sans-serif; 
+	font-family: Myriad, Arial, Helvetica, sans-serif; 
 	color:#555; 
 	margin:0; 
 	padding:0; 
