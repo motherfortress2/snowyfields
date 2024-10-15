@@ -87,7 +87,7 @@ The <playnow> tag provides the link for the Play Now button.
 	<mainSceneText4Link>http://community.clubpenguin.com/blog/</mainSceneText4Link>
 	
 	
-	<mainSceneVideoPath>http://media2.clubpenguin.com/www/flash/HomepageVideo.swf</mainSceneVideoPath>
+	<mainSceneVideoPath>/swf/HomepageVideo.swf</mainSceneVideoPath>
 
 	
 	<slot1>
