@@ -61,12 +61,12 @@ The <playnow> tag provides the link for the Play Now button.
 	<spanishLink>http://www.clubpenguin.com/es/</spanishLink>
 	
 	<playnowtext>PLAY NOW!</playnowtext>
-	<playnowlink>http://play.clubpenguin.com/index.php?lang=en</playnowlink>
-	<playnow>http://play.clubpenguin.com/index.php?lang=en</playnow>
+	<playnowlink>#</playnowlink>
+	<playnow>#</playnow>
 
 	
 	<displayRedeem>EN</displayRedeem>
-	<redeemLink>http://play.clubpenguin.com/?redemption=true</redeemLink>
+	<redeemLink>#</redeemLink>
 	<displaySign>en</displaySign>
 	
 	<displayMigrator>false</displayMigrator>
@@ -74,11 +74,11 @@ The <playnow> tag provides the link for the Play Now button.
 	<displayCoins>false</displayCoins>
 	<coinsLink>http://www.clubpenguin.com/parents/coins_for_change_08.htm</coinsLink>
 	
-	<mainSceneText1>Check out the blog in Fun Stuff!</mainSceneText1>
+	<mainSceneText1>Check out the blog in Community!</mainSceneText1>
 	<mainSceneText2>Cool, can I see?</mainSceneText2>
 	<mainSceneText2a>Click here to watch a video!</mainSceneText2a>
 	
-	<mainSceneText3>Want to be creative? Check out Fun Stuff!</mainSceneText3>
+	<mainSceneText3>Want to be creative? Check out Community!</mainSceneText3>
 	<mainSceneText3Link>http://community.clubpenguin.com/</mainSceneText3Link>
 	
 	<mainSceneText3a>What are you doing?</mainSceneText3a>
