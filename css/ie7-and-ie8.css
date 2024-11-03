@@ -1,0 +1,56 @@
+.base a.button {
+	z-index:101;
+}
+
+body {
+	overflow:hidden;
+}
+
+body.legacy{
+	height:auto;
+}
+/* KYLE_START_HERE_SUB_NAV */
+
+#masthead #nav ul.subnav {	
+	margin: 0 auto 0 auto;
+	position: relative;
+}
+
+.parents #masthead #nav ul.subnav {
+	text-align:center;
+}
+
+#masthead #nav ul.subnav li {
+	display:inline;
+	padding: 1px 3px 1px 2px;
+}
+
+#masthead #nav ul.subnav li.toysdropdown {
+	display:block;
+	width:170px;
+}
+
+#masthead #nav ul.subnav li.toysdropdown a {
+	display: inline-block;
+	padding: 6px 5px 0 12px;
+}
+#masthead #nav ul.menu li, #masthead #nav ul.menu li.important {
+	display:inline;
+}
+
+#carousel li {
+	display: block;
+	float: left;
+}
+#carousel {
+	background: #027ec8;
+}
+.category-block {
+	background: url(https://web.archive.org/web/20120505094631im_/http://media2.clubpenguin.com/_/img/toys/toys-category-bg.png) 0 0 repeat;
+}
+.slide p {
+	color: #fff;
+}
+#bb1 p {
+	color: #333;
+}
